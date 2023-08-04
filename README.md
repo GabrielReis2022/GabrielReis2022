@@ -1,7 +1,7 @@
 ### Olá! Eu sou o Gabriel 👋🏽
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabriel-reis-48189310b/)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](gabrielreisant.ana@gmail.com)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gabrielreisant.ana@gmail.com)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/biell.reis/)
 
 ![Gabriel GitHub stats](https://github-readme-stats.vercel.app/api?username=GabrielReis2022&show_icons=true&theme=dracula)
